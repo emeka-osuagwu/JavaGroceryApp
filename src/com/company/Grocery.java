@@ -2,10 +2,13 @@ package com.company;
 
 import java.util.ArrayList;
 
+// Grocery Class contains and extends all method require to perform CURD operations on our app
 public class Grocery {
 
+    // assign grocery to a Java ArrayList type
     private static ArrayList<String> grocery = new ArrayList<String>();
 
+    
     protected void listItems(){
         System.out.println("You have " + grocery.size() + " Items \n");
         for ( int i = 0; i < grocery.size(); i++){
