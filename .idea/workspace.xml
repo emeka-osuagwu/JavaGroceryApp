@@ -18,8 +18,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
+            <state relative-caret-position="481">
+              <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
             </state>
           </provider>
         </entry>
@@ -27,15 +27,11 @@
       <file leaf-file-name="Grocery.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Grocery.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            <state relative-caret-position="497">
+              <caret line="45" column="8" lean-forward="true" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
               <folding>
                 <element signature="e#428#429#0" expanded="true" />
                 <element signature="e#461#462#0" expanded="true" />
-                <element signature="e#507#508#0" expanded="true" />
-                <element signature="e#553#554#0" expanded="true" />
-                <element signature="e#612#613#0" expanded="true" />
-                <element signature="e#655#656#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -49,6 +45,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -199,32 +200,24 @@
           <folding>
             <element signature="e#428#429#0" expanded="true" />
             <element signature="e#461#462#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
-            <element signature="e#655#656#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
+        <state relative-caret-position="481">
+          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Grocery.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        <state relative-caret-position="497">
+          <caret line="45" column="8" lean-forward="true" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
           <folding>
             <element signature="e#428#429#0" expanded="true" />
             <element signature="e#461#462#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
-            <element signature="e#655#656#0" expanded="true" />
           </folding>
         </state>
       </provider>

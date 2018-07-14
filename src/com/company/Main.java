@@ -79,7 +79,7 @@ public class Main {
         scanner.nextLine();
         System.out.print("Enter new item value: ");
         String item = scanner.nextLine();
-        grocery.updateItem(position - 1, item);
+        grocery.updateItem(position, item);
     }
 
     public static void findGrocery(){
