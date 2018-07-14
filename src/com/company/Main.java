@@ -12,6 +12,7 @@ public class Main {
     public static void main(String[] args){
 
         while (!quit){
+
             ShowOption();
 
             int option = scanner.nextInt();

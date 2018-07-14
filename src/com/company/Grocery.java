@@ -43,7 +43,7 @@ public class Grocery {
     // findItem -> fine grocery item by item value
     // Require item value
     protected String findItem(String item){
-        
+
         int item_position = grocery.indexOf(item);
 
         if (item_position >= 0 ){
