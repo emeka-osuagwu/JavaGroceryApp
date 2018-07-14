@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Main {
 
-    //
     private static boolean quit = false;
     private static Scanner scanner = new Scanner(System.in);
     private static Grocery grocery = new Grocery();
@@ -43,8 +42,6 @@ public class Main {
         }
     }
 
-
-    //
     public static void ShowOption(){
         System.out.println("\n Press");
         System.out.println("\t 0 - To print options.");
@@ -56,12 +53,10 @@ public class Main {
         System.out.println("\t 6 - To quit application.");
     }
 
-
     public static void listGrocerys(){
         grocery.listItems();
     }
 
-    // Add addGrocerys
     public static void addGrocerys(){
         System.out.print("Enter grocery item: ");
         scanner.nextLine();
