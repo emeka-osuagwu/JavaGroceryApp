@@ -8,7 +8,6 @@ public class Main {
     private static Scanner scanner = new Scanner(System.in);
     private static Grocery grocery = new Grocery();
 
-
     public static void main(String[] args){
 
         while (!quit){
